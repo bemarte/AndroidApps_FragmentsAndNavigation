@@ -13,7 +13,9 @@ Since students haven't yet learned about saving data or the Android lifecycle, i
 ![Screenshot1](screenshots/screen_1.png) ![Screenshot2](screenshots/screen_2.png)
 
 ## Version History
-
+* 0.0.1.1
+   * fragment_title already appears on activity_main through BindinUtil. 
+   * (We already have the first App Trivia Start screen)
 * 0.0.1
     * Work started
 
